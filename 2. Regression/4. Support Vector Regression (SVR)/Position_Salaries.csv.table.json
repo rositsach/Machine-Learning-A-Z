@@ -1,0 +1,37 @@
+{
+  "columns": [
+    {
+      "field": "Position",
+      "title": "Position",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true,
+      "width": 125
+    },
+    {
+      "field": "Level",
+      "title": "Level",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 90
+    },
+    {
+      "field": "Salary",
+      "title": "Salary",
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true,
+      "width": 721
+    }
+  ],
+  "sort": [
+    {
+      "column": "Salary",
+      "dir": "asc"
+    }
+  ]
+}

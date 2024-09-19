@@ -1,0 +1,22 @@
+{
+  "fields": [
+    {
+      "name": "Position",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Level",
+      "type": "integer",
+      "format": "default"
+    },
+    {
+      "name": "Salary",
+      "type": "integer",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
